@@ -1,16 +1,16 @@
-# VLSI-LAB-EXP-6
-**SCHEMATIC ENTRY AND SIMULATION OF CMOS INVERTER, CMOS NAND and CMOS NOR USING CADENCE TOOL**
+# EXPERIMENT-6   SCHEMATIC ENTRY AND SIMULATION OF CMOS INVERTER, CMOS NAND and CMOS NOR USING CADENCE TOOL
 
-**AIM:**
+# DATE :
+# AIM:
 
 To design and simulate the CMOS inverter and observe the DC and transient responses using cadence tool.
 
-**APPARATUS REQUIRED:**
+# APPARATUS REQUIRED:
  
 1.	Laptop with MobaXterm
 2.	Cadence tool
 	
-**PROCEDURE**
+# PROCEDURE
 
 **Creating a new library:**
 1.	In the library manager, execute File - New library. The new library form appears.
